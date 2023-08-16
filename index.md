@@ -19,49 +19,29 @@ This course introduces rigorous probability theory, including distributions and 
 
 [lecture 1](https://github.com/slan-teaching/STP501/blob/main/lecture_notes/STP501_Intro.pdf)
 
-[Intro2PythonNotebook](https://github.com/slan-teaching/STP501/blob/main/lecture_notes/Lec13-Getting-started-with-iPython-Notebook.pdf)
-
 [lecture 2](https://github.com/slan-teaching/STP501/blob/main/lecture_notes/STP501_lect2reg.pdf)
-
-[demos_linreg](https://github.com/slan-teaching/STP501/tree/main/demos/lect2_reg)
 
 [lecture 3](https://github.com/slan-teaching/STP501/blob/main/lecture_notes/STP501_lect3gen.pdf)
 
-[demos_genlin](https://github.com/slan-teaching/STP501/tree/main/demos/lec3_gen)
-
 [lecture 4](https://github.com/slan-teaching/STP501/blob/main/lecture_notes/STP501_lect4clas.pdf)
-
-[demos_classfy](https://github.com/slan-teaching/STP501/tree/main/demos/lect4_clas)
 
 [lecture 5](https://github.com/slan-teaching/STP501/blob/main/lecture_notes/STP501_lect5tree.pdf)
 
-[demos_tree](https://github.com/slan-teaching/STP501/tree/main/demos/lect5_tree)
-
 [lecture 6](https://github.com/slan-teaching/STP501/blob/main/lecture_notes/STP501_lect6gp.pdf)
-
-[demos_gp](https://github.com/slan-teaching/STP501/tree/main/demos/lect6_gp)
 
 [lecture 7](https://github.com/slan-teaching/STP501/blob/main/lecture_notes/STP501_lect7dnn.pdf)
 
-[demos_dnn](https://github.com/slan-teaching/STP501/tree/main/demos/lect7_dnn)
-
-[Introduction to TensorFlow & PyTorch](https://github.com/slan-teaching/STP501/tree/main/demos/Intro2TFPyTorch)
-
 [lecture 8](https://github.com/slan-teaching/STP501/blob/main/lecture_notes/STP501_lect8cnn.pdf)
 
-[demos_cnn](https://github.com/slan-teaching/STP501/tree/main/demos/lect8_cnn)
-
 [lecture 9](https://github.com/slan-teaching/STP501/blob/main/lecture_notes/STP501_lect9rnn.pdf)
-
-[demos_rnn](https://github.com/slan-teaching/STP501/tree/main/demos/lect9_rnn)
 
 [lecture 10](https://github.com/slan-teaching/STP501/blob/main/lecture_notes/STP501_lect10aegan.pdf)
 
 ### Homework Assignments
 
-[Written 1](https://github.com/slan-teaching/STP501/blob/main/homework/STP501_written1.pdf).   [Notebook](https://github.com/slan-teaching/STP501/blob/main/homework/STP501_written1.ipynb)
+[HW 1](https://github.com/slan-teaching/STP501/blob/main/homework/STP501_hw1.pdf).
 
-[Written 2](https://github.com/slan-teaching/STP501/blob/main/homework/STP501_written2.pdf).    [Notebook](https://github.com/slan-teaching/STP501/blob/main/homework/STP501_written2.ipynb)
+[HW 2](https://github.com/slan-teaching/STP501/blob/main/homework/STP501_hw2.pdf).
 
 ### Exams
 
