@@ -63,10 +63,8 @@ This course introduces rigorous probability theory, including distributions and 
 
 [Written 2](https://github.com/slan-teaching/STP501/blob/main/homework/STP501_written2.pdf).    [Notebook](https://github.com/slan-teaching/STP501/blob/main/homework/STP501_written2.ipynb)
 
-### Exam
+### Exams
 
 [Midterm](https://github.com/slan-teaching/STP501/tree/main/exams/midterm.pdf)
-
-### Final Project
 
 [Final](https://github.com/slan-teaching/STP501/blob/main/exams/final.pdf)
